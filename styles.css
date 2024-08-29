@@ -1,0 +1,41 @@
+body {
+ color:rgb(14, 77, 133);
+ background: rgb(144, 164, 233);
+ margin: 0px;
+ font-family: "DM Serif Text", serif;
+}
+
+header {
+   border-bottom: solid 1px rgb(74, 74, 190);
+   padding: 20px;
+   font-size: 32px;
+   color: rgb(74, 74, 190);
+}
+
+section{
+ background: rgb(137, 151, 230);
+ padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+.chamada-texto {
+
+   margin-right: 20px;
+}
+
+h1 {
+font-size: 31px;
+}
+
+p {
+font-size: 15px;
+}
+
+img {
+   height: 100px;
+}
+div {
+
+   
+}
